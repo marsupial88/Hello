@@ -27,6 +27,8 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
 
+[Passion](#passion) <br>
+
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
@@ -85,3 +87,13 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
+
+
+<!-- PASSION Section Starts -->
+### PASSION
+<!-- Add your details -->
+Photography - nature and sports 
+Canon user 
+
