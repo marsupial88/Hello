@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/marsupial88/Hello/blob/main/IBPO4286.JPG)
+![alt text](https://github.com/marsupial88/Hello/blob/main/IBPO4286%20(2).JPG)
 
 <!-- Add your details -->
 
